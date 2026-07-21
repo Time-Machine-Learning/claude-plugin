@@ -1,0 +1,23 @@
+{
+  "name": "time-machine",
+  "version": "1.0.0",
+  "description": "Access Time Machine — the AI-powered organizational learning platform — from Claude Code. Manage courses, users, documents, experts, and analytics via 116 MCP tools that mirror the Time Machine public REST API.",
+  "author": {
+    "name": "Time Machine",
+    "email": "support@timeml.ai",
+    "url": "https://timeml.ai"
+  },
+  "homepage": "https://timeml.ai",
+  "repository": "https://github.com/1shushi1/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "time-machine",
+    "learning",
+    "training",
+    "onboarding",
+    "courses",
+    "lms",
+    "ai-training",
+    "mcp"
+  ]
+}

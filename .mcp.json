@@ -1,0 +1,9 @@
+{
+  "time-machine": {
+    "type": "http",
+    "url": "https://api.timeml.ai/api/v1/mcp",
+    "headers": {
+      "Authorization": "Bearer ${TIME_MACHINE_API_KEY}"
+    }
+  }
+}
