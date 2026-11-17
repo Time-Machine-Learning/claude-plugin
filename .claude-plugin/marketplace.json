@@ -1,0 +1,14 @@
+{
+  "name": "time-machine",
+  "description": "Time Machine plugins for Claude Code.",
+  "owner": {
+    "name": "Time Machine",
+    "email": "support@timeml.ai"
+  },
+  "plugins": [
+    {
+      "name": "time-machine",
+      "source": "./"
+    }
+  ]
+}

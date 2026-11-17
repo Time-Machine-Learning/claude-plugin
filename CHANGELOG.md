@@ -2,6 +2,17 @@
 
 All notable changes to the Time Machine Claude Code plugin will be documented here.
 
+## [1.1.1] — 2026-11-17
+
+### Fixed
+- Installing from GitHub works: the repository now carries `.claude-plugin/marketplace.json`, so `/plugin marketplace add Time-Machine-Learning/claude-plugin` no longer fails with "Marketplace file not found".
+- `plugin.json` declares `privacyPolicyUrl`; README links the Privacy Policy and Terms of Service.
+- README and SETUP describe sign-in, session expiry and revocation as they work today, and drop the fixed tool count.
+
+### Added
+- README section on what the plugin connects to and what it sends.
+- SETUP notes on uploading documents before generating course content and on which recordings make a demo training.
+
 ## [1.1.0] — 2026-08-17
 
 ### Changed

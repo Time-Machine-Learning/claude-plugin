@@ -1,7 +1,7 @@
 {
   "name": "time-machine",
-  "version": "1.1.0",
-  "description": "Access Time Machine — the AI-powered corporate learning platform — from Claude Code. Manage courses, modules, exercises, quizzes, users, documents, AI experts, and student analytics via 119 MCP tools. OAuth 2.1 with PKCE — no API keys required.",
+  "version": "1.1.1",
+  "description": "Access Time Machine — the AI-powered corporate learning platform — from Claude Code. Manage courses, modules, exercises, role plays, quizzes, users, documents, AI experts, demo trainings and student analytics through the Time Machine MCP server. OAuth 2.1 with PKCE — no API keys required.",
   "author": {
     "name": "Time Machine",
     "email": "support@timeml.ai",
@@ -10,6 +10,7 @@
   "homepage": "https://timeml.ai",
   "repository": "https://github.com/Time-Machine-Learning/claude-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://timeml.ai/privacy-policy",
   "keywords": [
     "time-machine",
     "learning",
